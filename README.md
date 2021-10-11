@@ -7,7 +7,7 @@
  
  [Tutorato 3](tutorato-informatica-03.pdf)
 ## Materiale aggiuntivo
- [Esercizi dal primo slide deck](Esercizi_slides.pdf)
+ [Esercizi slides 1](Esercizi_slides.pdf)
  
  [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf)
  
