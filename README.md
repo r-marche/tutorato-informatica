@@ -14,3 +14,6 @@
  [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf)
  
  [Esercizi aggiuntivi Tutorato 3](Esercizi_aggiuntivi_3.pdf)
+ 
+ [Esercizi aggiuntivi Tutorato 4](Esercizi_aggiuntivi_4.pdf)
+
