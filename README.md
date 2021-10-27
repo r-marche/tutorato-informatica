@@ -17,3 +17,4 @@
  
  [Esercizi aggiuntivi Tutorato 4](Esercizi_aggiuntivi_4.pdf)
 
+ [Esercizi aggiuntivi Tutorato 5 - 6](Esercizi_aggiuntivi_informatica_settimane_5__6.pdf)
