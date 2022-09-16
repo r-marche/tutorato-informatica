@@ -4,11 +4,13 @@ layout: default
 
 Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la pagina ufficiale del corso Moodle
 ## Fogli da consegnare
+<!<!---
  [Tutorato 1](tutorato-informatica-01.pdf)
  
  [Tutorato 2](tutorato-informatica-02.pdf)
  
  [Tutorato 3](tutorato-informatica-03.pdf)
+-->
 ## Materiale aggiuntivo
  [Esercizi slides 1](Esercizi_slides.pdf)
  
