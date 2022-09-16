@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Titolo Layer 1
+Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la pagina ufficiale del corso Moodle
 ## Fogli da consegnare
  [Tutorato 1](tutorato-informatica-01.pdf)
  
