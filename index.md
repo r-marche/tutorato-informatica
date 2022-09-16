@@ -15,7 +15,9 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la 
  [Tutorato 3](tutorato-informatica-03.pdf)
 -->
 ## Materiale aggiuntivo
- [Esercizi slides 1](Esercizi_slides.pdf)
+Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
+
+ [Esercizi slides](Esercizi_slides.pdf) 
  
  [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf)
  
