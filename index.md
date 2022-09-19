@@ -13,5 +13,5 @@ Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
 
  [Esercizi slides](Esercizi_slides.pdf) 
  
- [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) Aggiornato il 20/09
+ [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 20/09)
  
