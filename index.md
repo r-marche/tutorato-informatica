@@ -4,7 +4,7 @@ layout: default
 
 Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la pagina ufficiale del corso Moodle
 ## Fogli da consegnare
- In questa sezione verranno caricati i fogli di esercizi assegnati dal professore. 
+ [Tutorato 1](tutorato-informatica-01.pdf) 
  
  I fogli di esercizi sono resi pubblici dopo ogni tutorato e vanno consegnati su Moodle entro il mercoledì successivo
 
