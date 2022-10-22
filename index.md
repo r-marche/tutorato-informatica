@@ -14,6 +14,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la 
  [Tutorato 3](tutorato-informatica-03.pdf) (Consegnare su Moodle entro il 12/10)
  
  [Tutorato 4](tutorato-informatica-04.pdf) (Consegnare su Moodle entro il 19/10)
+ 
+ [Tutorato 5](tutorato-informatica-05.pdf) (Consegnare su Moodle entro il 26/10)
 
 ## Materiale aggiuntivo
 Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
