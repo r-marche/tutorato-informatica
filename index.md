@@ -35,4 +35,6 @@ Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
  
  [Esercizi aggiuntivi Tutorato 5](Esercizi_aggiuntivi_5.pdf) (aggiornato il 26/10)
 
+ [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf) (aggiornato il 01/11)
+ 
 
