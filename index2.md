@@ -42,4 +42,7 @@ Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
 
  [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf) (aggiornato il 01/11)
  
+ [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf) (aggiornato il 07/11)
+
+ 
 
