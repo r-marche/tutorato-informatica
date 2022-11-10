@@ -22,6 +22,9 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la 
  
  [Tutorato 7](tutorato-informatica-07.pdf) (Consegnare su Moodle entro il 10/11)
  
+ [Tutorato 8](tutorato-informatica-08.pdf) (Consegnare su Moodle entro il 10/11)
+
+ 
  
 ## Materiale aggiuntivo
 Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
