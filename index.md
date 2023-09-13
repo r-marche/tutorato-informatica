@@ -37,8 +37,9 @@ Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
 
  [Esercizi slides](Esercizi_slides.pdf) 
  
- [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 20/09)
- 
+ [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 20/09/22)
+
+ <!---
  [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf) (aggiornato il 26/09)
  
  [Esercizi slides 2](Esercizi_slides_2.pdf) + [Esercizi aggiuntivi Tutorato 2](Esercizi_aggiuntivi_2.pdf) (aggiornato il 03/10)
@@ -54,5 +55,6 @@ Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
  [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf) (aggiornato il 07/11)
 
  [Esercizi aggiuntivi Tutorato 9](Esercizi_aggiuntivi_9.pdf) (aggiornato il 22/11)
+ -->
  
 
