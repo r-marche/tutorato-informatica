@@ -5,9 +5,10 @@ layout: default
 
 Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la pagina ufficiale del corso Moodle
 ## Fogli da consegnare
- I fogli di esercizi sono resi pubblici dopo ogni tutorato e vanno consegnati su Moodle entro il mercoledì successivo
+ I fogli di esercizi sono resi pubblici dopo ogni tutorato e vanno consegnati su Moodle entro il mercoledì successivo.
 
-
+ Al momento non è stato assegnato nessun foglio di esercizi.
+ <!---
  [Tutorato 1](tutorato-informatica-01.pdf) (Consegnare su Moodle entro il 28/09)
  
  [Tutorato 2](tutorato-informatica-02.pdf) (Consegnare su Moodle entro il 5/10)
@@ -29,6 +30,7 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=34710) la 
  [Tutorato 10](tutorato-informatica-10.pdf) (Consegnare su Moodle entro il 30/11)
  
  [Tutorato 11](tutorato-informatica-11.pdf) (Consegnare su Moodle entro il 07/12)
+ -->
  
 ## Materiale aggiuntivo
 Questi esercizi sono completamente opzionali, e **non** vanno consegnati.
