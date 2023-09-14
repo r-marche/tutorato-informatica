@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-** Tutor anno 2023: ** Nicola Smaniotto e Luca Marchiori
+
+**Tutor anno 2023:** Nicola Smaniotto e Luca Marchiori
 
 Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=36995) la pagina ufficiale del corso Moodle
 ## Fogli da consegnare
