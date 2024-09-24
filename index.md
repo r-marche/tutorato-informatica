@@ -17,6 +17,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=39362) la 
 
  - [Esercizi slides](Esercizi_slides.pdf) + [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 21/09/2022)
 
+ - ...
+
  [//]: # () - [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf) (aggiornato nel 09/2022)
 
  [//]: # ( Questo è un commento quindi non viene visto in preview ) - [Esercizi slides 2](Esercizi_slides_2.pdf) + [Esercizi aggiuntivi Tutorato 2](Esercizi_aggiuntivi_2.pdf) (aggiornato nel 09/2022)
