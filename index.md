@@ -27,7 +27,7 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=39362) la 
  
 - [Esercizi aggiuntivi Tutorato 5](Esercizi_aggiuntivi_5.pdf) (aggiornato nel 10/2022)
  
-[//]: # ( Questo è un commento quindi non viene visto in preview ) - [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf) (aggiornato nel 11/2022)
+- [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf) (aggiornato nel 11/2022)
  
 [//]: # ( Questo è un commento quindi non viene visto in preview ) - [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf) (aggiornato nel 11/2022)
  
