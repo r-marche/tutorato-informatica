@@ -31,6 +31,6 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=39362) la 
  
 - [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf) (aggiornato nel 11/2022)
  
-[//]: # ( Questo è un commento quindi non viene visto in preview ) - [Esercizi aggiuntivi Tutorato 9](Esercizi_aggiuntivi_9.pdf) (aggiornato nel 11/2022)
+- [Esercizi aggiuntivi Tutorato 9](Esercizi_aggiuntivi_9.pdf) (aggiornato nel 11/2022)
 
  - Per ulteriori esercizi potete svolgere gli esami degli anni passati, disponibli sul [sito del professore](https://disi.unitn.it/~zunino/teaching/informatica/).
