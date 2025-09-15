@@ -2,9 +2,9 @@
 layout: default
 ---
 
-**Tutor anno accademico 2024-2025:** [Laura Mattiuz](mailto:laura.mattiuz@studenti.unitn.it) e [Edoardo Tomasi](mailto:edoardo.tomasi-2@studenti.unitn.it)
+**Tutor anno accademico 2025-2026:** [Matilde Calabri](mailto:matilde.calabri@studenti.unitn.it) e [Edoardo Barbieri](mailto:edoardo.barbieri@studenti.unitn.it)
 
-Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=39362) la pagina ufficiale del corso Moodle
+Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la pagina ufficiale del corso Moodle
 
 ## Fogli da consegnare
  I fogli di esercizi sono resi pubblici dopo ogni tutorato e vanno consegnati su Moodle entro il mercoledì successivo
