@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Tutor anno accademico 2024-2025:** [Matilde Calabri](mailto:matilde.calabri@studenti.unitn.it) e [Edoardo Barbieri](mailto:edoardo.barbieri@studenti.unitn.it)
+**Tutor anno accademico 2025-2026:** [Matilde Calabri](mailto:matilde.calabri@studenti.unitn.it) e [Edoardo Barbieri](mailto:edoardo.barbieri@studenti.unitn.it)
 
 Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la pagina ufficiale del corso Moodle
 
