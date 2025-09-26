@@ -17,4 +17,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la 
 
  - [Esercizi slides](Esercizi_slides.pdf) + [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 21/09/2022)
 
+ - [Esercizi slides](Esercizi_slides.pdf) + [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf)
+
+   
+
  - Per ulteriori esercizi potete svolgere gli esami degli anni passati, disponibli sul [sito del professore](https://disi.unitn.it/~zunino/teaching/informatica/).
