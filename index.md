@@ -23,6 +23,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la 
 
  - [Esercizi aggiuntivi Tutorato 3](Esercizi_aggiuntivi_3.pdf)
 
+ - [Esercizi aggiuntivi Tutorato 4](Esercizi_aggiuntivi_4.pdf)
+
    
 
  - Per ulteriori esercizi potete svolgere gli esami degli anni passati, disponibli sul [sito del professore](https://disi.unitn.it/~zunino/teaching/informatica/).
