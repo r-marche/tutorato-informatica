@@ -15,15 +15,20 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la 
 
  Questi esercizi sono completamente opzionali, e **_non_** vanno consegnati.
 
- - [Esercizi slides](Esercizi_slides.pdf) + [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 21/09/2022)
+- [Esercizi slides](Esercizi_slides.pdf) + [Esercizi aggiuntivi Tutorato 0](Esercizi_aggiuntivi_0.pdf) (aggiornato il 21/09/2022)
 
- - [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf) (aggiornato il 26/09)
+- [Esercizi aggiuntivi Tutorato 1](Esercizi_aggiuntivi_1.pdf) (aggiornato il 26/09)
 
- - [Esercizi slides](Esercizi_slides_2.pdf) + [Esercizi aggiuntivi Tutorato 2](Esercizi_aggiuntivi_2.pdf)
+- [Esercizi slides](Esercizi_slides_2.pdf) + [Esercizi aggiuntivi Tutorato 2](Esercizi_aggiuntivi_2.pdf)
 
- - [Esercizi aggiuntivi Tutorato 3](Esercizi_aggiuntivi_3.pdf)
+- [Esercizi aggiuntivi Tutorato 3](Esercizi_aggiuntivi_3.pdf)
 
- - [Esercizi aggiuntivi Tutorato 4](Esercizi_aggiuntivi_4.pdf)
+- [Esercizi aggiuntivi Tutorato 4](Esercizi_aggiuntivi_4.pdf)
+ 
+- [Esercizi aggiuntivi Tutorato 5](Esercizi_aggiuntivi_5.pdf)
+   
+- [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf)
+
 
    
 
