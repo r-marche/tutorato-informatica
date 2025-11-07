@@ -29,6 +29,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la 
    
 - [Esercizi aggiuntivi Tutorato 6](Esercizi_aggiuntivi_6.pdf)
 
+- [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf)
+
 
    
 
