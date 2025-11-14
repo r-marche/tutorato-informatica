@@ -31,6 +31,8 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=41665) la 
 
 - [Esercizi aggiuntivi Tutorato 7](Esercizi_aggiuntivi_7.pdf)
 
+- [Esercizi aggiuntivi Tutorato 8](Esercizi_aggiuntivi_8.pdf)
+
 
    
 
